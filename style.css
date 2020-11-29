@@ -1,11 +1,12 @@
 body{
     margin-top: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #110e22;
 }
 
 .container{
     width: 1200px;
-    background-color: #888888;
+    background-color: #110e22;
     height: 2000px;
     -ms-flex-item-align: center;
         align-self: center;
@@ -98,10 +99,11 @@ body{
 
 .section-text{
     margin: 0;
-    color: #3e3e3e;
+    color: white;
     background: white;
     font-weight: bold;
     text-align: center;
+    background-color: #110e22;
 }
 
 .col-3{
