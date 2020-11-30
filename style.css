@@ -95,20 +95,49 @@ body{
 }
 
 .footer{
-    height: 200px;
-    background-color: yellowgreen;
+    height: 300px;
+    background-color: #110e22;
     bottom: 0px;
     /* position: fixed; */
     /* width: 1200px; */
 }
-
+.footer-div-contact{
+    margin-bottom: 5px;
+    border-bottom: solid 1px white;
+      
+  
+}
+.footer_icon{
+    font-size: 50px;
+    color:white;
+    margin-top:15px
+}
 .section-text{
-    margin: 0px;
-    color: white;
-    background: #110e22;
+    margin: 0;
+    color: whitesmoke;
+    /*background: white;*/
     font-weight: bold;
     text-align: center;
     background-color: #110e22;
+}
+.footer-text{
+    margin: 0;
+    color: whitesmoke;
+    /*background: white;*/
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.footer-div{
+    width: 50%;
+    background-color: #2f294e;
+    display: inline;
+    text-align: center;
+    float: left;
+    height: 100%;
+    padding-top: 20px;
+    
 }
 
 .col-3{
