@@ -5,11 +5,7 @@ body{
 }
 
 .container{
-<<<<<<< HEAD
     width: 1200px;
-=======
-    min-width: 1200px;
->>>>>>> 6d8dbaa0c81b87614bcabc83c37349e54d428c9e
     background-color: #110e22;
     height: 2000px;
     -ms-flex-item-align: center;
@@ -131,7 +127,7 @@ body{
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: #eeeded;
+    background-color: #34626c;
 }
 
 .service-content{
