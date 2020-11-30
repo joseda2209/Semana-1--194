@@ -74,8 +74,9 @@ body{
 }
 
 .section-1{
-    height: 500px;
+    height: 520px;
     background-color: #0a043c;
+    
 
 }
 
@@ -114,6 +115,7 @@ body{
     padding: -15px;
     margin-top: 5px;
     text-align: center;
+    padding-bottom: 10px;
 }
 .col-5{
     width: 19%;
