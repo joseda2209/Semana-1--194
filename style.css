@@ -5,7 +5,11 @@ body{
 }
 
 .container{
+<<<<<<< HEAD
     width: 1200px;
+=======
+    min-width: 1200px;
+>>>>>>> 6d8dbaa0c81b87614bcabc83c37349e54d428c9e
     background-color: #110e22;
     height: 2000px;
     -ms-flex-item-align: center;
@@ -15,36 +19,40 @@ body{
 }
 
 .header{
-    background-color: aqua;
+    background-color: #110e22;
     height: auto;
     
 }
 
 .container-menu{
     height: 60px;
-    background-color: antiquewhite;
+    background-color: #110e22;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     width: 100%;
+    
 
 }
 .container-logo{
     width: 100%;
     height: inherit;
-    background-color: azure;
+    background-color: #110e22;
     text-align: center;
 }
 
 .site-title{
+    color: white;
     margin: 0;
     padding: 0.36em 0;
 }
 
 .container-imagen{
-    background-image: url('./bg.png');
+    background-image: url('./img/sky-desarrollo-banner.png');
     height: 240px;
-    /* margin-bottom: 20px; */
+    width: 100%;
+    /*margin-bottom: 20px*/
+ 
 }
 
 .nav-list{
@@ -100,7 +108,7 @@ body{
 .section-text{
     margin: 0;
     color: white;
-    background: white;
+    background: #110e22;
     font-weight: bold;
     text-align: center;
     background-color: #110e22;
@@ -210,12 +218,13 @@ hr{
 
 .main-menu__item{
     line-height: 3;
+    color: white;
 }
 
 .main-menu__link{
     text-decoration: none;
     font-size: 1em;
-    color: #3e3e3e;
+    color: white;
 }
 
 .main-menu__link:hover{
