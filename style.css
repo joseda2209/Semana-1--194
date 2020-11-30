@@ -95,7 +95,7 @@ body{
 
 .section-3{
     height: 500px;
-    background-color: coral;
+    background-color: #5c6e91;
 }
 
 .footer{
@@ -126,12 +126,12 @@ body{
     padding-bottom: 10px;
 }
 .col-5{
-    width: 19%;
+    width: 32.3%;
     height: 470px;
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: rgb(255, 177, 148);
+    background-color: #eeeded;
 }
 
 .service-content{
